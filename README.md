@@ -3,12 +3,10 @@
 *** Python,PyQT teknolojilerini kullanarak yapacağım otomat uygulaması
 
 	1.1 Projenin Amacı
-
-	Kullanıcın arayüz üzerinden random olarak girdiği para miktarı ile otomat üzerinden alışveriş yaparak parayı bitirmeye çalışmaktır.Bu proje ile kullanıcın alışveriş yaparken her üründen olabildiğince almasını sağlamak amaçlanmıştır.
-
+- Kullanıcın arayüz üzerinden random olarak girdiği para miktarı ile otomat üzerinden alışveriş yaparak parayı bitirmeye çalışmaktır.Bu proje ile kullanıcın alışveriş yaparken her üründen olabildiğince almasını sağlamak amaçlanmıştır.
 
 	1.2 Projenin Şartları
-Alınan ürünlerin adet sayıları yakın olmalıdır. (Verilen para miktarını bir iki çeşit ürün alarak bitirilmemeli)
+- Alınan ürünlerin adet sayıları yakın olmalıdır. (Verilen para miktarını bir iki çeşit ürün alarak bitirilmemeli)
 Girilen para miktarının alınacak ürünlerin toplam fiyatından yüksek olmalıdır.
 Para üstünün minimum kalmasını sağlamaktır.
 Alınacak her üründen en az bir adet alınması gerekmektedir.
