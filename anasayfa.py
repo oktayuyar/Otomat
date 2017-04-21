@@ -6,7 +6,7 @@
 #      by: PyQt5 UI code generator 5.2.1
 #
 # WARNING! All changes made in this file will be lost!
-
+#!/usr/bin/env python
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 class Ui_Otomat(object):
