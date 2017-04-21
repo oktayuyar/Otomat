@@ -106,7 +106,7 @@ class Ui_Otomat(object):
         self.statusbar = QtWidgets.QStatusBar(Otomat)
         self.statusbar.setObjectName("statusbar")
         Otomat.setStatusBar(self.statusbar)
-
+        
         self.retranslateUi(Otomat)
         QtCore.QMetaObject.connectSlotsByName(Otomat)
 
