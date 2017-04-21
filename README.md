@@ -13,3 +13,5 @@
 - Para üstünün minimum kalmasını sağlamaktır.
 - Alınacak her üründen en az bir adet alınması gerekmektedir.
 
+Anasayfa
+![png](https://github.com/oktayuyar/Otomat/blob/master/images/otomat.png "Otomat")
